@@ -77,8 +77,7 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
+URL: https://sea-water.github.io
 rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
