@@ -8,7 +8,7 @@ As is:
 
 To be:
 | 학력 | 재,졸,중 |
-| :------ |:--- | :--- |
+| :------ |:--- |
 | 보인고등학교 | 졸 |
 | 한세대학교 컴퓨터공학과 | 졸 |
 | 한세대학교 시각정보디자인학과(복) | 졸 |
@@ -25,10 +25,10 @@ To be:
 **Next JS**
 
 ### Program (for UI/UX design)
-**Adobe Photoshop**
-**Adobe Illustrator**
-**+) Adobe AfterEffect**
-**+) Adobe Premiere**
+**AdobePhotoshop**
+**AdobeIllustrator**
+**+) AdobeAfterEffect**
+**+) AdobePremiere**
 
 
 ## Project
