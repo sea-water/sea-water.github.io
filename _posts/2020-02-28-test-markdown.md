@@ -1,7 +1,3 @@
-----
-layout: single
-title: 이력서
-----
 
 ## 학력
 
