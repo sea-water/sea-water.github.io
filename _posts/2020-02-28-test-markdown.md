@@ -1,78 +1,46 @@
----
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
----
+## 학력
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+As is:
+| 학력 | 재,졸,중 |
+| :------ |:--- |
+| 보인고등학교 | 졸 |
+| 한세대학교 컴퓨터공학과 | 재 |
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
+To be:
+| 학력 | 재,졸,중 |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| 보인고등학교 | 졸 |
+| 한세대학교 컴퓨터공학과 | 졸 |
+| 한세대학교 시각정보디자인학과(복) | 졸 |
 
 
-How about a yummy crepe?
+## Skill
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+### Languages
+**HTML**
+**CSS**
+**Javascript**
+**React**
+**React Native**
+**Next JS**
 
-It can also be centered!
+### Program (for UI/UX design)
+**Adobe Photoshop**
+**Adobe Illustrator**
+**+) Adobe AfterEffect**
+**+) Adobe Premiere**
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+## Project
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+As is :
+| 프로젝트 | 역할 |
+| :------ |:--- |
+| 케이크 주문제작 사이트 | 팀장 & 디자인 |
 
-And here is the same code with syntax highlighting:
+To be :
+| 프로젝트 | 역할 |
+| :------ |:--- |
+| 케이크 주문제작 사이트 | 팀장 & 디자인 |
+| 졸업프로젝트 | 프론트엔드 & 디자인 |
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
