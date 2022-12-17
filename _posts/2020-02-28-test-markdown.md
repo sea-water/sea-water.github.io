@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 이력서
-subtitle: 위 "이력서"를 클릭하세요
+subtitle: 이력서입니다
 ---
 
 
