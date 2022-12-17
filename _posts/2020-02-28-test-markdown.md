@@ -27,6 +27,8 @@ To be:
 ## Skill
 
 ### Languages
+
+
 **HTML**
 **CSS**
 **Javascript**
@@ -35,6 +37,8 @@ To be:
 **Next JS**
 
 ### Program (for UI/UX design)
+
+
 **AdobePhotoshop**
 **AdobeIllustrator**
 **+) AdobeAfterEffect**
@@ -63,6 +67,7 @@ To be :
 
 As is :
 
+
 **2019 컴퓨터 관련 동아리 총무**
 
 **2019 공연 동아리 영상팀장**
@@ -74,6 +79,8 @@ As is :
 **2022 CHAMP-ON 프로젝트 수료**
 
 To be :
+
+
 **2023 신문사 총무**
 
 
