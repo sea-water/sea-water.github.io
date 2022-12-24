@@ -52,6 +52,8 @@ As is :
 | 프로젝트 | 역할 | 기간 |
 | :------ |:--- | :--- |
 | 케이크 주문제작 사이트 | 팀장 & 디자인 | 2022.09~2022.12 |
+
+
 https://github.com/Semicolon-champon/cake_gallery.git
 
 To be :
